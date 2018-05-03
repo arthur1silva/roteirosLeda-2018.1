@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-05-03T14:40:33.918-0300</date>
+  <logger>ARTHUR DA SILVA RODRIGUES</logger>
+  <level>FINE</level>
+  <message>File 116210899-ARTHUR DA SILVA RODRIGUES.zip was received. It was sent by ARTHUR DA SILVA RODRIGUES from IP 150.165.42.101</message>
+</record>
